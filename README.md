@@ -25,6 +25,7 @@ Technologies, languages and tools I'm using:
 <img align="left" alt="Javascript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>
 
+<br />
 <b> Contact: </b>
 <p>E-mail: tran.marta@gmail.com </p>
 
