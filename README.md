@@ -5,9 +5,9 @@ I love to see the effects of my job after using new tools, technologies.
 By day student with passion for programming and self-development, in the meantime calisthenics passionionate.
 </p>
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Mart34&theme=dark&show_icons=true)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=tranmarta&theme=dark&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mart34&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tranmarta&size_weight=0.5&count_weight=0.5)
 
 
 <p> My sources of knowledge:
