@@ -5,7 +5,7 @@ I love to see the effects of my job after using new tools, technologies.
 By day student with passion for programming and self-development, in the meantime calisthenics passionionate.
 </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api Mart34= &theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=&theme=radical)
 
 <p> My sources of knowledge:
 research from web pages, online courses, online tutorials and videos, books. </p>
