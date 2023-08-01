@@ -5,7 +5,7 @@ I love to see the effects of my job after using new tools, technologies.
 By day student with passion for programming and self-development, in the meantime calisthenics passionionate.
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mart34&theme=dark&show_icons=true)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Mart34&theme=dark&show_icons=true)
 
 
 <p> My sources of knowledge:
