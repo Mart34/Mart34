@@ -7,6 +7,8 @@ By day student with passion for programming and self-development, in the meantim
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Mart34&theme=dark&show_icons=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mart34&size_weight=0.5&count_weight=0.5)
+
 
 <p> My sources of knowledge:
 research from web pages, online courses, online tutorials and videos, books. </p>
