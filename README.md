@@ -30,6 +30,12 @@ Technologies, languages and tools I'm using:
 <b> Contact: </b>
 <p>E-mail: tran.marta@gmail.com </p>
 
+![Profile View Counter](https://komarev.com/ghpvc/?username=tranmarta)
+<br />
+<p>Random IT joke to make your day! ⬇ ;)</p>
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 
 
 
