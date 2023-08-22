@@ -10,6 +10,9 @@ By day student with passion for programming and self-development, in the meantim
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tranmarta&size_weight=0.5&count_weight=0.5)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 <p> My sources of knowledge:
 research from web pages, online courses, online tutorials and videos, books. </p>
