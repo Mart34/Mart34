@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p align="left"> I'm Marta, 23 years old IT student from Warsaw, future junior front end developer. 
+<p align="left"> I'm Marta, 24 years old IT student from Warsaw, future junior front end developer. 
 I love to see the effects of my job after using new tools, technologies. 
 By day student with passion for programming and self-development, in the meantime calisthenics passionionate.
 </p>
